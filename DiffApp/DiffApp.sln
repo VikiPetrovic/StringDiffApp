@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffApp", "DiffApp\DiffApp.csproj", "{20863524-4B17-4F0E-A3C6-26209789963B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffUnitTests", "DiffUnitTests\DiffUnitTests.csproj", "{173E4806-AA6F-449A-AC7D-FF5B0649AE89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20863524-4B17-4F0E-A3C6-26209789963B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20863524-4B17-4F0E-A3C6-26209789963B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20863524-4B17-4F0E-A3C6-26209789963B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20863524-4B17-4F0E-A3C6-26209789963B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173E4806-AA6F-449A-AC7D-FF5B0649AE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173E4806-AA6F-449A-AC7D-FF5B0649AE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173E4806-AA6F-449A-AC7D-FF5B0649AE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173E4806-AA6F-449A-AC7D-FF5B0649AE89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40F4B398-3CF8-4E1D-B4FB-2BEE13CAAC08}
+	EndGlobalSection
+EndGlobal
